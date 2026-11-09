@@ -1319,7 +1319,7 @@ month,year,month_of_year,region,hospital_group,lat,lon,ed_visits_total,ed_visits
 2023-10,2023,10,Região de Saúde LVT,"Centro Hospitalar Universitário de Lisboa Norte, EPE",38.75,-9.16,14826.0,10956.0,3870.0,0.0,,Lisboa,20.27,22.11,26.89,15.65,0,0
 2023-11,2023,11,Região de Saúde LVT,"Centro Hospitalar Universitário de Lisboa Norte, EPE",38.75,-9.16,15240.0,10439.0,4801.0,0.0,,Lisboa,17.27,18.96,20.83,11.65,0,0
 2023-12,2023,12,Região de Saúde LVT,"Centro Hospitalar Universitário de Lisboa Norte, EPE",38.75,-9.16,15625.0,10514.0,5111.0,0.0,,Lisboa,14.67,16.54,19.06,9.1,0,0
-2023-02,2023,2,Região de Saúde Norte,"Centro Hospitalar Universitário de Santo António, EPE",41.15,-8.62,23059.0,19937.0,,3122.0,,Porto,10.44,14.74,18.7,3.62,0,3
+2023-02,2023,2,Região de Saúde Norte,"Centro Hospitalar Universitário de Santo António, EPE",41.15,-8.62,11232.0,9736.0,,1496.0,,Porto,10.44,14.74,18.7,3.62,0,3
 2023-03,2023,3,Região de Saúde Norte,"Centro Hospitalar Universitário de Santo António, EPE",41.15,-8.62,12447.0,10703.0,,1744.0,,Porto,13.17,15.97,19.64,3.5,0,2
 2023-04,2023,4,Região de Saúde Norte,"Centro Hospitalar Universitário de Santo António, EPE",41.15,-8.62,12425.0,10738.0,,1687.0,,Porto,15.51,19.2,24.81,7.83,0,0
 2023-05,2023,5,Região de Saúde Norte,"Centro Hospitalar Universitário de Santo António, EPE",41.15,-8.62,13032.0,11325.0,,1707.0,,Porto,17.27,21.02,25.83,10.24,0,0
@@ -3696,7 +3696,7 @@ month,year,month_of_year,region,hospital_group,lat,lon,ed_visits_total,ed_visits
 2023-10,2023,10,Região de Saúde Norte,"Hospital da Senhora da Oliveira, Guimarães, EPE",41.44,-8.31,15127.0,10151.0,3786.0,1190.0,,Porto,19.55,22.77,30.69,14.3,0,0
 2023-11,2023,11,Região de Saúde Norte,"Hospital da Senhora da Oliveira, Guimarães, EPE",41.44,-8.31,13032.0,8107.0,3966.0,959.0,,Porto,15.08,17.43,19.9,8.41,0,0
 2023-12,2023,12,Região de Saúde Norte,"Hospital da Senhora da Oliveira, Guimarães, EPE",41.44,-8.31,13087.0,8352.0,3784.0,951.0,,Porto,11.6,14.2,17.2,3.9,0,2
-2019-09,2019,9,Região de Saúde Norte,"Hospital de Braga, EPE",41.57,-8.4,165614.0,117499.0,35300.0,12815.0,,Porto,19.34,23.82,29.8,12.14,0,0
+2019-09,2019,9,Região de Saúde Norte,"Hospital de Braga, EPE",41.57,-8.4,17802.0,12878.0,3405.0,1519.0,,Porto,19.34,23.82,29.8,12.14,0,0
 2019-10,2019,10,Região de Saúde Norte,"Hospital de Braga, EPE",41.57,-8.4,19367.0,13293.0,4654.0,1420.0,,Porto,16.14,19.47,25.2,9.89,0,0
 2019-11,2019,11,Região de Saúde Norte,"Hospital de Braga, EPE",41.57,-8.4,18713.0,12564.0,4850.0,1299.0,,Porto,13.34,14.91,19.2,7.47,0,0
 2019-12,2019,12,Região de Saúde Norte,"Hospital de Braga, EPE",41.57,-8.4,19950.0,12949.0,5480.0,1521.0,,Porto,11.75,14.3,18.04,4.7,0,1
@@ -4124,7 +4124,7 @@ month,year,month_of_year,region,hospital_group,lat,lon,ed_visits_total,ed_visits
 2021-10,2021,10,Região de Saúde LVT,"Hospital de Loures, PPP",38.82,-9.18,14143.0,7697.0,5162.0,1284.0,,Lisboa,18.93,21.59,25.29,13.31,0,0
 2021-11,2021,11,Região de Saúde LVT,"Hospital de Loures, PPP",38.82,-9.18,13027.0,6911.0,4906.0,1210.0,,Lisboa,14.68,17.19,19.64,10.36,0,0
 2021-12,2021,12,Região de Saúde LVT,"Hospital de Loures, PPP",38.82,-9.18,13377.0,7965.0,4264.0,1148.0,,Lisboa,14.62,16.46,17.9,9.61,0,0
-2021-06,2021,6,Região de Saúde LVT,"Hospital de Vila Franca de Xira, EPE",38.98,-8.98,49120.0,33467.0,12130.0,3523.0,,Lisboa,17.74,20.03,23.2,14.39,0,0
+2021-06,2021,6,Região de Saúde LVT,"Hospital de Vila Franca de Xira, EPE",38.98,-8.98,11112.0,6859.0,3557.0,696.0,,Lisboa,17.74,20.03,23.2,14.39,0,0
 2021-07,2021,7,Região de Saúde LVT,"Hospital de Vila Franca de Xira, EPE",38.98,-8.98,10717.0,6966.0,2992.0,759.0,,Lisboa,18.94,21.39,25.73,15.22,0,0
 2021-08,2021,8,Região de Saúde LVT,"Hospital de Vila Franca de Xira, EPE",38.98,-8.98,10210.0,6849.0,2594.0,767.0,,Lisboa,19.46,21.88,23.1,16.35,0,0
 2021-09,2021,9,Região de Saúde LVT,"Hospital de Vila Franca de Xira, EPE",38.98,-8.98,10914.0,6865.0,3277.0,772.0,,Lisboa,20.36,22.5,23.85,16.19,0,0
