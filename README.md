@@ -7,10 +7,12 @@ health, and one notebook to explore them.
 
 ## The notebook
 
-`PlanetaryHealth_Datasets.ipynb` loads each dataset, draws a first plot
-and fits a starter model next to its naive baseline. Each section ends
-with seven points to explore. The notebook is saved with its outputs, so
-it can be read here on GitHub without running anything.
+`PlanetaryHealth_Datasets.ipynb` takes each dataset through the same
+steps: a short description, a first look at the data, a starter model
+compared with simple guesses, and a plot of what the model predicted
+against what happened. Each section ends with seven points to explore.
+The notebook is saved with its outputs, so it can be read here on GitHub
+without running anything.
 
 - **In the browser:** [open it in Google Colab](https://colab.research.google.com/github/QuantitativeBiology/PlanetaryHealth_SystemsScience/blob/main/PlanetaryHealth_Datasets.ipynb).
   A Google account is enough. Use *File → Save a copy in Drive* to keep
