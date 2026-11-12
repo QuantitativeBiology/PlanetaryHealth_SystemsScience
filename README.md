@@ -7,8 +7,8 @@ health, and one notebook to explore them.
 
 ## The notebook
 
-`PlanetaryHealth_Datasets.ipynb` takes each dataset through the same
-steps: a short description, a first look at the data, a starter model
+`PlanetaryHealth_Datasets.ipynb` opens with a toolbox of one-line
+commands, then takes each dataset through the same steps: a short description, a first look at the data, a starter model
 compared with simple guesses, and a plot of what the model predicted
 against what happened. Each section ends with seven points to explore.
 The notebook is saved with its outputs, so it can be read here on GitHub
